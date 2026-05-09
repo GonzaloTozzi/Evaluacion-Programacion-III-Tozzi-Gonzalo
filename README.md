@@ -28,7 +28,7 @@ La aplicación permite visualizar un catálogo de productos, buscar y filtrar po
 ### 1. Descargar o clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/GonzaloTozzi/Evaluacion-Programacion-III-Tozzi-Gonzalo
 ```
 
 ### 2. Ingresar a la carpeta del proyecto
